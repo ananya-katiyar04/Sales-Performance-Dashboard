@@ -17,7 +17,7 @@ This Power BI dashboard provides insights into sales performance across categori
 
 ## Dashboard Preview
 
-![Dashboard](Screenshot 2026-06-04 062107.png)
+![Dashboard Preview](dashboard.png)
 
 ## Author
 Ananya Katiyar
